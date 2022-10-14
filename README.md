@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @katecallahan-rosslab
 - 👀 I’m interested in the neurobiology behind feeding, stress, and everything in between
-- 🌱 I’m currently learning a translational approach of studying feeding behaviors in mice
-- 💞️ I’m looking to collaborate on current projects such as open field, fixed ratio, and progressive ratio
-- 📫 How to reach me: kcallahan1211@gmail.com
+- 🌱 I’m currently developing a translational model for studying food insecurity in mice
+- 💞️ I’m looking to collaborate on current projects such as early life adversity and hypothalamic projection development
+- 📫 How to reach me: kathryn.callahan@einsteinmed.edu
 
 <!---
 katecallahan-rosslab/katecallahan-rosslab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
